@@ -12,6 +12,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Map;
 
+@Configuration
 public class CustomAuthenticationEntryPointHandler implements AuthenticationEntryPoint {
 
     @Override
