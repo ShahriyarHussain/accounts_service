@@ -4,5 +4,7 @@ out
 src/generated
 test
 
+gradlew
+gradlew.bat
 .gradle
 .idea
