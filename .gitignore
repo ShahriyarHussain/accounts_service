@@ -1,6 +1,8 @@
 build
 bin
 out
-.gradle
 src/generated
 test
+
+.gradle
+.idea
