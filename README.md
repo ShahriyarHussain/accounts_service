@@ -14,3 +14,11 @@ The project uses fundamental Spring Boot features like:
 > Transactional Operations
 > 
 > Custom Logging
+> 
+> Custom Validators
+> 
+> Spring Beans, Components and Configurations
+> 
+> Project Lombok
+> 
+> Exceptions
