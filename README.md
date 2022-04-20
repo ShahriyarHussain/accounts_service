@@ -1,6 +1,6 @@
 # Accounts Service
 ### Hyperskill learning project
-**Part of the interactive learning course of Java Spring Boot by Jetbrains' Hyperskill platform**
+**Part of the interactive learning course of Java Backend Developer by Jetbrains' Hyperskill platform**
 
 The project uses fundamental Spring Boot features like:
 > Authentication
